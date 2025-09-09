@@ -1,11 +1,12 @@
 import Button from "./components/Button";
 import Bulb from "./components/Bulb";
-import Resister from "./components/Register";
+import Resister from "./components/HookExam";
+import HookExam from "./components/HookExam";
 
 function App() {
   return (
     <>
-      <Resister />
+      <HookExam />
     </>
   );
 }
